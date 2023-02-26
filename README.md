@@ -13,13 +13,4 @@ Ps. Unfortunately I didnt make layout for devices with orientation landscape.
 
 # Example my desing for mobile and tablet/desktop
 
-- Mobile:
 
-
- ![Zdjęcie](design\my-phone-design.png)
-
-
-- Desktop:
-
-
- ![Zdjęcie](design\my-desktop-design.png)
